@@ -1,0 +1,103 @@
+body {
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	background-color: transparent !important;
+}
+#adminButtons {
+	margin:0px 0px 20px 20px;
+	width:150px;
+	text-align:left;
+}
+#LoginBtn {
+	height:87px;font-weight:bold;
+}
+#loginLink {
+	margin-right:86px;
+}
+#addonFix {
+	min-width:60px;
+}
+.specialHR {
+	width:100%;display:block;height:1px;border:0;border-top:1px solid #DDDDDD;margin:11px 0;
+}
+.hide {
+	display:none;
+}
+.registerDiv, .loginDiv {
+    position:absolute;
+    z-index:15;
+    top:50%;
+	left:50%;
+	padding:5px;
+}
+.adminArea {
+	margin-left:50px;
+	margin-right:50px;
+}
+.adminPanels {
+	margin:10px;
+	float:left;
+}
+.browsing-posters {
+	margin:10px;
+}
+.films {
+	float:left;
+	margin:10px;
+}
+.loginDiv {
+	width:453px;
+	height:350px;
+	margin:-175px 0 0 -226px;
+}
+.loginBtnContainer {
+	float:left;width:100px;margin-top:-8px;
+}
+.infoPage_container {
+	width:1200px;min-height:850px;position:relative;overflow:auto;margin-left:auto;margin-right:auto;padding-bottom:30px;background-color:white;background:rgba(255,255,255,0.8);
+}
+.infoPage_poster {
+	width:250px;height:400px;float:left;margin-top:20px;margin-left:30px;
+}
+.infoPage_container_outerData {
+	float:left;width:800px;;
+}
+.infoPage_info {
+	float:left;width:200px;
+}
+.infoPage_overview {
+	width:100%;border:#B9B9B9 thin solid;min-height:160px;color:black;clear:both;
+}
+.infoPage_trailer {
+	width:100%;padding:10px;margin-top:50px;
+}
+.infoPage_container_innerData {
+	width:100%;position:relative;overflow:auto;color:black;height:100px;
+}
+.searchBar {
+	width:200px;float:left;margin-top:8px;margin-right:40px;
+}
+.input-group-btn {
+	width:200px;height:37px;
+}
+.registerDiv {
+	width:350px;
+	height:640px;
+	margin:-320px 0 0 -175px;
+}
+.headerFont {
+	font-weight:bold;
+	font-size:24px;
+}
+.loginForms {
+	text-align:right;
+	padding-right:5px;
+	padding-left:5px;
+}
+.play_btn a {
+	font-size:18px;
+	font-weight:bold;
+}
+.play_btn {
+	text-align:center;
+	width:185px;
+}

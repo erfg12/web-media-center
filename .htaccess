@@ -1,0 +1,6 @@
+Options -Indexes
+
+<FilesMatch "\.(?:db|ini)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
